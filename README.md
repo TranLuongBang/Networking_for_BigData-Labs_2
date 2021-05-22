@@ -40,3 +40,5 @@ server cluster.
 * Repeat points 1-3 above assuming random routing, where an
 arriving task is assigned to server 1 with probability p, to
 server 2 with probability 1 − p. Set <img src="https://render.githubusercontent.com/render/math?math= p = p^∗ "> to minimize E[D].
+
+Page 263
