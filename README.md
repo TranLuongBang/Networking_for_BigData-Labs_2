@@ -8,7 +8,7 @@ with mean rate Λ.
 * Job workload is distributed as a Pareto random variable L with
 Complementary Cumulative Distribution Function (CCDF):
 ```math
-G_L(x) = P(L>x) = (\frac{b}{c})^\alpha , x>= b
+![equation](G_L(x) = P(L>x) = (\frac{b}{c})^\alpha , x>= b)
 ```
 
 * Task processing time at server j is Xj = \frac{L}{\mu _j} , j = 1, 2, where μ1 and μ2 are processing rates of the two servers.
