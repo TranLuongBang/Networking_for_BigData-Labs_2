@@ -16,7 +16,7 @@ Complementary Cumulative Distribution Function (CCDF):
 
 ### Formulas and numerical values
 * The first two moments of L are:
-E[L] = \frac{\alpha b}{\alpha -1}   
+![equation](E[L] = \frac{\alpha b}{\alpha -1}   )
 E[L^2] = \frac{\alpha b^2}{\alpha -2}
 
 *The system load is \rho = \frac{\Lambda E[L]}{\mu _1 + \mu _2}
